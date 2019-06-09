@@ -1,5 +1,5 @@
 # OVERHAX-FORTNITE-AIMBOT 
-# ▼READ BELOW FOR UPDATE▼
+# ▼READ BELOW FOR UPDATE AND HOW TO FIX ERRORS▼
 Latest version is v.0.2A check the bottom right corner (IN THE PROGRAM) for version info.
 
 Download the latest version if you don't have version mentioned above here Latest 
@@ -16,7 +16,15 @@ Download the latest version if you don't have version mentioned above here Lates
 
 |____________________________________________________________________________________|
 
-|https://github.com/THEGUY3ds/OVERHAX-FORTNITE-AIMBOT/raw/master/AimBot%20latest.zip |
+ https://github.com/THEGUY3ds/OVERHAX-FORTNITE-AIMBOT/raw/master/AimBot%20latest.zip 
 
-|____________________________________________________________________________________|
+How to fix errors:
+
+Fix xp bot not working
+
+Change settings to WindowedFullscreen and set display resolution to 1920x1080 16:9.
+
+Fix aimbot not working 
+
+Change settings to borderless windowed mode.
 
