@@ -12,7 +12,7 @@ Download the latest version if you don't have version mentioned above here Lates
 
 |Our offical discord:https://discord.gg/WZbAPvg                                      |
 
-|Website: https://theguy3ds.github.io/OVERHAX-FORTNITE-AIMBOT/                       | 
+|Website: overhax.ml (coming soon)                                                   | 
 
 |____________________________________________________________________________________|
 
