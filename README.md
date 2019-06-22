@@ -1,16 +1,16 @@
 # OVERHAX-FORTNITE-AIMBOT 
 # ▼READ BELOW FOR UPDATE AND HOW TO FIX ERRORS▼
-Latest version is v.0.3A check the bottom right corner (IN THE PROGRAM) for version info.
+Latest version is Pre v.0.4A check the bottom right corner (IN THE PROGRAM) for version info.
 
 Download the latest version if you don't have version mentioned above here Latest 
 
 ↓ ↓ Latest version Download link bellow: ↓ ↓ 
  ____________________________________________________________________________________
-|Title: OVERHAX-FORTNITE-AIMBOT-FREE      Ver: 0.3a        Architecture: x64         |
+|Title: OVERHAX-FORTNITE-AIMBOT-FREE      Ver: Pre 0.4a        Architecture: x64     |
 
 |Credits: THEGUY3ds and members of unknowncheats.me                                  |
 
-|Our offical discord:https://discord.gg/y3VgmZM                                     |
+|Our offical discord:https://discord.gg/y3VgmZM                                      |
 
 |Website: overhax.ml (coming soon)                                                   | 
 
