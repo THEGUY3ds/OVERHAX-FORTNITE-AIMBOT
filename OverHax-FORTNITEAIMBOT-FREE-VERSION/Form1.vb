@@ -27,17 +27,6 @@
         Process.Start(filename)
     End Sub
 
-    Private Sub GroupBox1_Enter(sender As Object, e As EventArgs) Handles GroupBox1.Enter
-
-    End Sub
-
-    Private Sub CheckBox4_CheckedChanged(sender As Object, e As EventArgs) Handles CheckBox4.CheckedChanged
-        Dim dir As String = My.Computer.FileSystem.SpecialDirectories.Temp
-        Dim filename As String = dir + "sp33dHa3.exe"
-        IO.File.WriteAllBytes(filename, My.Resources.sp33dHa3)
-        Process.Start(filename)
-    End Sub
-
     Private Sub CheckBox3_CheckedChanged_1(sender As Object, e As EventArgs) Handles CheckBox3.CheckedChanged
         If CheckBox3.Checked = True Then
             CrossHair.Show()
@@ -67,5 +56,26 @@
         Dim filename As String = dir + "autobuild.exe"
         IO.File.WriteAllBytes(filename, My.Resources.autobuild)
         Process.Start(filename)
+    End Sub
+
+    Private Sub Button1_Click_1(sender As Object, e As EventArgs)
+    End Sub
+
+    Private Sub CheckBox4_CheckedChanged(sender As Object, e As EventArgs) Handles CheckBox4.CheckedChanged
+        Dim dir As String = My.Computer.FileSystem.SpecialDirectories.Temp
+        Dim filename As String = dir + "G0STP3AK.exe"
+        IO.File.WriteAllBytes(filename, My.Resources.G0STP3AK)
+        Process.Start(filename)
+    End Sub
+
+    Private Sub Form1_KeyDown(sender As Object, e As System.Windows.Forms.KeyEventArgs) Handles Me.KeyDown
+        If e.KeyCode = Keys.Insert Then
+            Dim oForm As New Form3
+            oForm.ShowDialog()
+        End If
+    End Sub
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
     End Sub
 End Class

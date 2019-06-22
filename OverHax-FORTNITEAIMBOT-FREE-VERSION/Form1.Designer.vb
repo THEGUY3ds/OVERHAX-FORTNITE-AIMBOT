@@ -25,15 +25,16 @@ Partial Class Form1
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
         Me.Label1 = New System.Windows.Forms.Label()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
-        Me.CheckBox5 = New System.Windows.Forms.CheckBox()
+        Me.Label3 = New System.Windows.Forms.Label()
         Me.CheckBox4 = New System.Windows.Forms.CheckBox()
+        Me.CheckBox6 = New System.Windows.Forms.CheckBox()
+        Me.CheckBox5 = New System.Windows.Forms.CheckBox()
         Me.CheckBox3 = New System.Windows.Forms.CheckBox()
         Me.CheckBox2 = New System.Windows.Forms.CheckBox()
         Me.CheckBox1 = New System.Windows.Forms.CheckBox()
         Me.Button2 = New System.Windows.Forms.Button()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Button3 = New System.Windows.Forms.Button()
-        Me.CheckBox6 = New System.Windows.Forms.CheckBox()
         Me.GroupBox1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -41,27 +42,64 @@ Partial Class Form1
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Microsoft YaHei UI", 26.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(64, 9)
+        Me.Label1.Location = New System.Drawing.Point(28, 9)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(655, 46)
+        Me.Label1.Size = New System.Drawing.Size(736, 46)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "OVERHAX-FREE-FORTNITE-AIMBOT"
+        Me.Label1.Text = "The best free hack for fortnite OVERHAX" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
         '
         'GroupBox1
         '
         Me.GroupBox1.BackColor = System.Drawing.SystemColors.ActiveCaptionText
+        Me.GroupBox1.Controls.Add(Me.Label3)
+        Me.GroupBox1.Controls.Add(Me.CheckBox4)
         Me.GroupBox1.Controls.Add(Me.CheckBox6)
         Me.GroupBox1.Controls.Add(Me.CheckBox5)
-        Me.GroupBox1.Controls.Add(Me.CheckBox4)
         Me.GroupBox1.Controls.Add(Me.CheckBox3)
         Me.GroupBox1.Controls.Add(Me.CheckBox2)
         Me.GroupBox1.Controls.Add(Me.CheckBox1)
+        Me.GroupBox1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(0, Byte), Integer))
         Me.GroupBox1.Location = New System.Drawing.Point(31, 62)
         Me.GroupBox1.Name = "GroupBox1"
         Me.GroupBox1.Size = New System.Drawing.Size(740, 347)
         Me.GroupBox1.TabIndex = 1
         Me.GroupBox1.TabStop = False
-        Me.GroupBox1.Text = "GroupBox1"
+        Me.GroupBox1.Text = "LEGACY PRESS INSERT TO OPEN/CLOSE CHEAT MENU"
+        '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Font = New System.Drawing.Font("Mongolian Baiti", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label3.Location = New System.Drawing.Point(1, 178)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(470, 20)
+        Me.Label3.TabIndex = 8
+        Me.Label3.Text = "PRESS INSERT TO OPEN/CLOSE CHEAT MENU!"
+        '
+        'CheckBox4
+        '
+        Me.CheckBox4.AutoSize = True
+        Me.CheckBox4.Font = New System.Drawing.Font("Microsoft YaHei", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.CheckBox4.ForeColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer))
+        Me.CheckBox4.Location = New System.Drawing.Point(5, 155)
+        Me.CheckBox4.Name = "CheckBox4"
+        Me.CheckBox4.Size = New System.Drawing.Size(99, 20)
+        Me.CheckBox4.TabIndex = 6
+        Me.CheckBox4.Text = "GHOST PEAK"
+        Me.CheckBox4.UseVisualStyleBackColor = True
+        '
+        'CheckBox6
+        '
+        Me.CheckBox6.AutoSize = True
+        Me.CheckBox6.BackColor = System.Drawing.Color.Black
+        Me.CheckBox6.Font = New System.Drawing.Font("Microsoft YaHei", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.CheckBox6.ForeColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer))
+        Me.CheckBox6.Location = New System.Drawing.Point(5, 129)
+        Me.CheckBox6.Name = "CheckBox6"
+        Me.CheckBox6.Size = New System.Drawing.Size(113, 20)
+        Me.CheckBox6.TabIndex = 5
+        Me.CheckBox6.Text = "AUTO BUILDER"
+        Me.CheckBox6.UseVisualStyleBackColor = False
         '
         'CheckBox5
         '
@@ -69,24 +107,12 @@ Partial Class Form1
         Me.CheckBox5.BackColor = System.Drawing.Color.Black
         Me.CheckBox5.Font = New System.Drawing.Font("Microsoft YaHei", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.CheckBox5.ForeColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer))
-        Me.CheckBox5.Location = New System.Drawing.Point(5, 132)
+        Me.CheckBox5.Location = New System.Drawing.Point(5, 106)
         Me.CheckBox5.Name = "CheckBox5"
         Me.CheckBox5.Size = New System.Drawing.Size(69, 20)
         Me.CheckBox5.TabIndex = 4
         Me.CheckBox5.Text = "XP BOT"
         Me.CheckBox5.UseVisualStyleBackColor = False
-        '
-        'CheckBox4
-        '
-        Me.CheckBox4.AutoSize = True
-        Me.CheckBox4.Font = New System.Drawing.Font("Microsoft YaHei", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.CheckBox4.ForeColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer))
-        Me.CheckBox4.Location = New System.Drawing.Point(5, 106)
-        Me.CheckBox4.Name = "CheckBox4"
-        Me.CheckBox4.Size = New System.Drawing.Size(299, 20)
-        Me.CheckBox4.TabIndex = 3
-        Me.CheckBox4.Text = "SPEEDHACK (experimental) Press Caps to activate "
-        Me.CheckBox4.UseVisualStyleBackColor = True
         '
         'CheckBox3
         '
@@ -139,34 +165,21 @@ Partial Class Form1
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Microsoft YaHei UI", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(734, 425)
+        Me.Label2.Location = New System.Drawing.Point(709, 425)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(63, 22)
+        Me.Label2.Size = New System.Drawing.Size(95, 22)
         Me.Label2.TabIndex = 3
-        Me.Label2.Text = "V.0.3A"
+        Me.Label2.Text = "Pre V.0.4A"
         '
         'Button3
         '
         Me.Button3.Font = New System.Drawing.Font("Microsoft YaHei UI", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button3.Location = New System.Drawing.Point(644, 424)
+        Me.Button3.Location = New System.Drawing.Point(628, 424)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(75, 23)
         Me.Button3.TabIndex = 4
         Me.Button3.Text = "INFO"
         Me.Button3.UseVisualStyleBackColor = True
-        '
-        'CheckBox6
-        '
-        Me.CheckBox6.AutoSize = True
-        Me.CheckBox6.BackColor = System.Drawing.Color.Black
-        Me.CheckBox6.Font = New System.Drawing.Font("Microsoft YaHei", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.CheckBox6.ForeColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer))
-        Me.CheckBox6.Location = New System.Drawing.Point(5, 158)
-        Me.CheckBox6.Name = "CheckBox6"
-        Me.CheckBox6.Size = New System.Drawing.Size(95, 20)
-        Me.CheckBox6.TabIndex = 5
-        Me.CheckBox6.Text = "Auto builder"
-        Me.CheckBox6.UseVisualStyleBackColor = False
         '
         'Form1
         '
@@ -180,6 +193,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Label1)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
+        Me.KeyPreview = True
         Me.Name = "Form1"
         Me.Text = "OVERHAX-FORTNITE-AIMBOT-FREE"
         Me.GroupBox1.ResumeLayout(False)
@@ -197,7 +211,8 @@ Partial Class Form1
     Friend WithEvents Label2 As Label
     Friend WithEvents Button3 As Button
     Friend WithEvents CheckBox3 As CheckBox
-    Friend WithEvents CheckBox4 As CheckBox
     Friend WithEvents CheckBox5 As CheckBox
     Friend WithEvents CheckBox6 As CheckBox
+    Friend WithEvents CheckBox4 As CheckBox
+    Friend WithEvents Label3 As Label
 End Class

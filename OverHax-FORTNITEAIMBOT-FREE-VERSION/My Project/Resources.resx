@@ -130,7 +130,7 @@
   <data name="autobuild" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\autobuild.exe;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="sp33dHa3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\sp33dha3.exe;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="G0STP3AK" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\G0STP3AK.exe;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>

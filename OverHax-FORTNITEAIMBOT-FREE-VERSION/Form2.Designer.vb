@@ -37,12 +37,12 @@ Partial Class Form2
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(398, 243)
+        Me.Label1.Location = New System.Drawing.Point(365, 243)
         Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(56, 18)
+        Me.Label1.Size = New System.Drawing.Size(87, 18)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "V.0.3A"
+        Me.Label1.Text = "Pre V.0.4A"
         '
         'Label2
         '
@@ -59,7 +59,7 @@ Partial Class Form2
         '
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(14, 44)
+        Me.Label3.Location = New System.Drawing.Point(13, 44)
         Me.Label3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(356, 24)
@@ -90,7 +90,7 @@ Partial Class Form2
         'Label6
         '
         Me.Label6.AutoSize = True
-        Me.Label6.Location = New System.Drawing.Point(12, 232)
+        Me.Label6.Location = New System.Drawing.Point(1, 221)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(309, 16)
         Me.Label6.TabIndex = 5
@@ -142,7 +142,7 @@ Partial Class Form2
         Me.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Margin = New System.Windows.Forms.Padding(4)
         Me.Name = "Form2"
-        Me.Text = "INFO - v0.2A"
+        Me.Text = "INFO - Pre v0.4A"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

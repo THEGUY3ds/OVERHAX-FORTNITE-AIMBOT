@@ -114,6 +114,12 @@
     <Compile Include="Form2.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -148,6 +154,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form2.resx">
       <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Form4.resx">
       <DependentUpon>Form4.vb</DependentUpon>
@@ -196,7 +205,6 @@
     <None Include="bin\Debug\recoil.exe" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\config.ini" />
     <None Include="Resources\Xp0B0T.exe" />
   </ItemGroup>
   <ItemGroup>
@@ -212,7 +220,7 @@
     <None Include="bin\Debug\sp33dHa3.exe" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\sp33dHa3.exe" />
+    <None Include="Resources\G0STP3AK.exe" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

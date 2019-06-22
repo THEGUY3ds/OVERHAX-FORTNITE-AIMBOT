@@ -83,9 +83,9 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Byte[].
         '''</summary>
-        Friend ReadOnly Property recoil() As Byte()
+        Friend ReadOnly Property G0STP3AK() As Byte()
             Get
-                Dim obj As Object = ResourceManager.GetObject("recoil", resourceCulture)
+                Dim obj As Object = ResourceManager.GetObject("G0STP3AK", resourceCulture)
                 Return CType(obj,Byte())
             End Get
         End Property
@@ -93,9 +93,9 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Byte[].
         '''</summary>
-        Friend ReadOnly Property sp33dHa3() As Byte()
+        Friend ReadOnly Property recoil() As Byte()
             Get
-                Dim obj As Object = ResourceManager.GetObject("sp33dHa3", resourceCulture)
+                Dim obj As Object = ResourceManager.GetObject("recoil", resourceCulture)
                 Return CType(obj,Byte())
             End Get
         End Property
