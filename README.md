@@ -12,7 +12,7 @@ Download the latest version if you don't have version mentioned above here Lates
 
 |Our offical discord:https://discord.gg/y3VgmZM                                      |
 
-|Website: overhax.ml (coming soon)                                                   | 
+|Website: http://overhax.ml                                                          | 
 
 |____________________________________________________________________________________|
 
