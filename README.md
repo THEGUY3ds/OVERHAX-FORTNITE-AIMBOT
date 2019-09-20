@@ -10,7 +10,7 @@ Download the latest version if you don't have version mentioned above here Lates
 
 |Credits: THEGUY3ds and members of unknowncheats.me                                  |
 
-|Our offical discord:https://discord.gg/y3VgmZM                                      |
+|Our offical discord:https://discord.gg/skUe5uk                                    |
 
 |Website: http://overhax.ml                                                          | 
 
