@@ -1,4 +1,4 @@
-# OVERHAX-FORTNITE-AIMBOT 
+# OVERHAX-FORTNITE-AIMBOT OUTDATED WILL GET U BANNED
 # ▼READ BELOW FOR UPDATE AND HOW TO FIX ERRORS▼
 Latest version is Pre v.0.4A check the bottom right corner (IN THE PROGRAM) for version info.
 
